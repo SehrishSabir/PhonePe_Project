@@ -7,7 +7,7 @@ This dashboard helps analyze digital payment activities and identify major reaso
 
 It has 5 slides
 
-**1. Home
+1. Home
 
 2. Insurance
 
@@ -15,7 +15,7 @@ It has 5 slides
 
 4. Money Transfer
 
-5. Recharge and Bills**
+5. Recharge and Bills
 
 **1️⃣ Home**
 
@@ -35,6 +35,7 @@ It has 5 slides
 
 
 **5️⃣ Recharge and Bills**
+
 ![Dashboard](phonePe/Slides/Slide5.jpg)
 
 **🎯 Purpose of the Dashboard**
