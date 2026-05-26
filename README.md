@@ -4,32 +4,38 @@ The PhonePe Payment Dashboard provides a detailed overview of transaction perfor
 This dashboard helps analyze digital payment activities and identify major reasons behind transaction failures.
 
 **📊 Dashboard Highlights**
+
 It has 5 slides
+
 **1. Home
+
 2. Insurance
+
 3. Loan
+
 4. Money Transfer
+
 5. Recharge and Bills**
 
 **1️⃣ Home**
 
-![Dashboard](phonePe/Slide/Slide1.jpg)
+![Dashboard](phonePe/Slides/Slide1.jpg)
 
 **2️⃣ Insurance**
 
-![Dashboard](phonePe/Slide/Slide1.jpg)
+![Dashboard](phonePe/Slides/Slide2.jpg)
 
 **3️⃣ Loan**
 
-![Dashboard](phonePe/Slide/Slide1.jpg)
+![Dashboard](phonePe/Slides/Slide3.jpg)
 
 **4️⃣ Money Transfer**
  
-![Dashboard](phonePe/Slide/Slide1.jpg)
+![Dashboard](phonePe/Slides/Slide4.jpg)
 
 
 **5️⃣ Recharge and Bills**
-![Dashboard](phonePe/Slide/Slide1.jpg)
+![Dashboard](phonePe/Slides/Slide5.jpg)
 
 **🎯 Purpose of the Dashboard**
 
