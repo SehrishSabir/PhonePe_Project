@@ -142,8 +142,6 @@ The **PhonePe Business Analytics Dashboard** is an end-to-end data analytics pro
 
 ## 📸 Dashboard Preview
 
-**Add your Power BI dashboard screenshots here.**
-
 ---
 
 ![Dashboard](phonePe/Slides/Slide1.jpg)
